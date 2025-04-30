@@ -29,8 +29,7 @@ This Memory Game is a desktop application implementation of the classic card-mat
 
 ## 🔧 Installation and Setup
 
-1. Clone the repository:
-   https://github.com/BeshoyAziz7/FinalProject-MemoryGame-.git
+1. Clone the repository:  https://github.com/BeshoyAziz7/FinalProject-MemoryGame-.git
 2.Open the solution file (.sln) in Visual Studio
 
 4. Build the solution (Ctrl+Shift+B or Build > Build Solution)
