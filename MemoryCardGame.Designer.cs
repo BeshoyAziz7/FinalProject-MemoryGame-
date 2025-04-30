@@ -31,7 +31,6 @@
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.labelStatus = new System.Windows.Forms.Label();
             this.btnBackToMenu = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // flowLayoutPanel1
@@ -66,23 +65,12 @@
             this.btnBackToMenu.UseVisualStyleBackColor = true;
             this.btnBackToMenu.Click += new System.EventHandler(this.btnBackToMenu_Click);
             // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(562, 19);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 3;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
             // MemoryGameForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::MemoryCardGame.Properties.Resources.Background;
             this.ClientSize = new System.Drawing.Size(784, 561);
-            this.Controls.Add(this.button1);
             this.Controls.Add(this.btnBackToMenu);
             this.Controls.Add(this.labelStatus);
             this.Controls.Add(this.flowLayoutPanel1);
@@ -101,7 +89,6 @@
         private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
         private System.Windows.Forms.Label labelStatus;
         private System.Windows.Forms.Button btnBackToMenu;
-        private System.Windows.Forms.Button button1;
     }
 }
 
