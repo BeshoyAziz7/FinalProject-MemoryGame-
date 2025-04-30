@@ -30,11 +30,9 @@ This Memory Game is a desktop application implementation of the classic card-mat
 ## 🔧 Installation and Setup
 
 1. Clone the repository:  https://github.com/BeshoyAziz7/FinalProject-MemoryGame-.git
-2.Open the solution file (.sln) in Visual Studio
-
-4. Build the solution (Ctrl+Shift+B or Build > Build Solution)
-
-5. Run the application (F5 or Debug > Start Debugging)
+2. Open the solution file (.sln) in Visual Studio
+3. Build the solution (Ctrl+Shift+B or Build > Build Solution)
+4. Run the application (F5 or Debug > Start Debugging)
 
 ## 📝 Game Rules
 
