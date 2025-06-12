@@ -51,3 +51,16 @@ This Memory Game is a desktop application implementation of the classic card-mat
 ## 👤 Author
 
 - **Beshoy Aziz** - [GitHub](https://github.com/BeshoyAziz7)
+
+## 📞 Let's Connect! 📞
+
+I'm always open to new opportunities, collaborations, or just a friendly chat! Feel free to reach out to me:
+
+* **Location**: Toms River, NJ, USA 📍
+* **Email**: beshoyaziz707@gmail.com 📧
+* **Phone**: +1 (848) 333-9667 📱
+* **LinkedIn**: [https://www.linkedin.com/in/beshoy-aziz-183450279/](https://www.linkedin.com/in/beshoy-aziz-183450279/) 💼
+* **GitHub**: [https://github.com/BeshoyAziz7](https://github.com/BeshoyAziz7) 🐙
+* **Instagram**: [https://www.instagram.com/beshoo_a8?igsh=MTR4eXd1aTVvaGRqMQ==](https://www.instagram.com/beshoo_a8?igsh=MTR4eXd1aTVvaGRqMQ==) 📸
+
+
